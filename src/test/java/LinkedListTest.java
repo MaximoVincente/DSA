@@ -114,5 +114,4 @@ public class LinkedListTest {
         int expected = 4;
         assertEquals(actual, expected);
     }
-
 }
