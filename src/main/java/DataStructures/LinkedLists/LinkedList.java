@@ -1,6 +1,5 @@
 package DataStructures.LinkedLists;
 
-
 public class LinkedList {
     public Node head;
     private Node tail;
